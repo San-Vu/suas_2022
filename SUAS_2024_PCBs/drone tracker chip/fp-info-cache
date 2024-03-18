@@ -1,4 +1,4 @@
-23417110035810921
+23420533411758506
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -96312,3 +96312,24 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+footprints
+SOIC-8_SI
+
+SI4946BEY-T1-E3 
+0
+8
+8
+footprints
+SOIC-8_SI-L
+
+SI4946BEY-T1-E3 
+0
+8
+8
+footprints
+SOIC-8_SI-M
+
+SI4946BEY-T1-E3 
+0
+8
+8

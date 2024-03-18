@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/Users/johnvu/Documents/Componnets/SI4946BEY-T1-E3/footprints.pretty")(options "")(descr ""))
+)
